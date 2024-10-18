@@ -27,7 +27,7 @@ What is Parkinson’s Disease? Parkinson's disease (PD), or simply Parkinson's i
       The project could include a chatbot that interacts with patients or clinicians, offering                predictions and explanations. The chatbot will use JSON data to communicate between the model and       the user interface for integration into clinical tools.
 
 ## Requirements
-
+ 
 Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks and GPU acceleration.
 
 Development Environment: Python 3.6 or later is necessary for coding the Parkinson’s disease detection system, particularly for managing libraries and frameworks used in deep learning.
